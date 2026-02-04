@@ -134,11 +134,11 @@ function App() {
         return;
       }
 
-      const move = response.move;
+      const move = res.move;
       const startPhase = gameState?.phase;
 
       // Update state immediately from response
-      if (response.state) setGameState(response.state);
+      if (res.state) setGameState(res.state);
 
       // If it's a guesser and has "words" to guess
       if (move.words && move.words.length > 0) {
