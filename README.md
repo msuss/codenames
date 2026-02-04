@@ -1,6 +1,7 @@
 # Codenames with AI Agents
 
-A high-performance Codenames web application featuring strategic AI agents, dynamic board sizes, and secure hosting capabilities.
+A Codenames web application featuring strategic AI agents and dynamic board sizess.
+<img width="1005" height="742" alt="Screen Shot 2026-02-03 at 5 16 50 PM" src="https://github.com/user-attachments/assets/fb016338-575d-4a1d-bce8-5b67fed2ed0b" />
 
 ## 🌟 Features
 
@@ -10,6 +11,8 @@ A high-performance Codenames web application featuring strategic AI agents, dyna
 - **Game Replay**: Step-by-step playback of past games with deep-link support.
 - **Secure Hosting**: Built-in `ACCESS_TOKEN` protection to keep your API credits safe when hosting online.
 - **Premium UI**: Dark-mode aesthetic with smooth animations and high-density layouts for large boards.
+
+<img width="1079" height="654" alt="Screen Shot 2026-02-03 at 5 17 08 PM" src="https://github.com/user-attachments/assets/56a58d10-11c4-4250-a639-0efe5ed79be0" />
 
 ## 🚀 Quick Start
 
